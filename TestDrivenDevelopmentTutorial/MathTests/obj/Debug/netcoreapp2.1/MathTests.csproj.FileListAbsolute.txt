@@ -1,0 +1,17 @@
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\bin\Debug\netcoreapp2.1\MathTests.deps.json
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\bin\Debug\netcoreapp2.1\MathTests.runtimeconfig.json
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\bin\Debug\netcoreapp2.1\MathTests.runtimeconfig.dev.json
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\bin\Debug\netcoreapp2.1\MathTests.dll
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\bin\Debug\netcoreapp2.1\MathTests.pdb
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\bin\Debug\netcoreapp2.1\TestDrivenDevelopmentTutorial.dll
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\bin\Debug\netcoreapp2.1\TestDrivenDevelopmentTutorial.pdb
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\obj\Debug\netcoreapp2.1\MathTests.csprojAssemblyReference.cache
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\obj\Debug\netcoreapp2.1\MathTests.csproj.CoreCompileInputs.cache
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\obj\Debug\netcoreapp2.1\MathTests.AssemblyInfoInputs.cache
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\obj\Debug\netcoreapp2.1\MathTests.AssemblyInfo.cs
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\obj\Debug\netcoreapp2.1\MathTests.csproj.CopyComplete
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\obj\Debug\netcoreapp2.1\MathTests.dll
+D:\CSharpTutorials\TestDrivenDevelopmentTutorial\MathTests\obj\Debug\netcoreapp2.1\MathTests.pdb

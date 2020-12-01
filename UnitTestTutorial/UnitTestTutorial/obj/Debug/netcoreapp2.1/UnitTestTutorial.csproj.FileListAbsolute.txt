@@ -1,0 +1,11 @@
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\bin\Debug\netcoreapp2.1\UnitTestTutorial.deps.json
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\bin\Debug\netcoreapp2.1\UnitTestTutorial.runtimeconfig.json
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\bin\Debug\netcoreapp2.1\UnitTestTutorial.runtimeconfig.dev.json
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\bin\Debug\netcoreapp2.1\UnitTestTutorial.dll
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\bin\Debug\netcoreapp2.1\UnitTestTutorial.pdb
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\obj\Debug\netcoreapp2.1\UnitTestTutorial.csprojAssemblyReference.cache
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\obj\Debug\netcoreapp2.1\UnitTestTutorial.csproj.CoreCompileInputs.cache
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\obj\Debug\netcoreapp2.1\UnitTestTutorial.AssemblyInfoInputs.cache
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\obj\Debug\netcoreapp2.1\UnitTestTutorial.AssemblyInfo.cs
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\obj\Debug\netcoreapp2.1\UnitTestTutorial.dll
+D:\CSharpTutorials\UnitTestTutorial\UnitTestTutorial\obj\Debug\netcoreapp2.1\UnitTestTutorial.pdb

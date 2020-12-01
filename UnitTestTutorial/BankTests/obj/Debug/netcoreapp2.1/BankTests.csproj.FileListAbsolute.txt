@@ -1,0 +1,17 @@
+D:\CSharpTutorials\UnitTestTutorial\BankTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CSharpTutorials\UnitTestTutorial\BankTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CSharpTutorials\UnitTestTutorial\BankTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CSharpTutorials\UnitTestTutorial\BankTests\bin\Debug\netcoreapp2.1\BankTests.deps.json
+D:\CSharpTutorials\UnitTestTutorial\BankTests\bin\Debug\netcoreapp2.1\BankTests.runtimeconfig.json
+D:\CSharpTutorials\UnitTestTutorial\BankTests\bin\Debug\netcoreapp2.1\BankTests.runtimeconfig.dev.json
+D:\CSharpTutorials\UnitTestTutorial\BankTests\bin\Debug\netcoreapp2.1\BankTests.dll
+D:\CSharpTutorials\UnitTestTutorial\BankTests\bin\Debug\netcoreapp2.1\BankTests.pdb
+D:\CSharpTutorials\UnitTestTutorial\BankTests\bin\Debug\netcoreapp2.1\UnitTestTutorial.dll
+D:\CSharpTutorials\UnitTestTutorial\BankTests\bin\Debug\netcoreapp2.1\UnitTestTutorial.pdb
+D:\CSharpTutorials\UnitTestTutorial\BankTests\obj\Debug\netcoreapp2.1\BankTests.csprojAssemblyReference.cache
+D:\CSharpTutorials\UnitTestTutorial\BankTests\obj\Debug\netcoreapp2.1\BankTests.csproj.CoreCompileInputs.cache
+D:\CSharpTutorials\UnitTestTutorial\BankTests\obj\Debug\netcoreapp2.1\BankTests.AssemblyInfoInputs.cache
+D:\CSharpTutorials\UnitTestTutorial\BankTests\obj\Debug\netcoreapp2.1\BankTests.AssemblyInfo.cs
+D:\CSharpTutorials\UnitTestTutorial\BankTests\obj\Debug\netcoreapp2.1\BankTests.csproj.CopyComplete
+D:\CSharpTutorials\UnitTestTutorial\BankTests\obj\Debug\netcoreapp2.1\BankTests.dll
+D:\CSharpTutorials\UnitTestTutorial\BankTests\obj\Debug\netcoreapp2.1\BankTests.pdb
